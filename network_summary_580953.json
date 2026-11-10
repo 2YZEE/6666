@@ -1,0 +1,594 @@
+{
+  "source_url": "https://dalilk.com/resources/fluency/read?book=580953",
+  "captured_at_utc": "2026-11-10T05:56:16.188126+00:00",
+  "request_count": 106,
+  "response_count": 106,
+  "request_resource_type_counts": {
+    "document": 8,
+    "font": 11,
+    "stylesheet": 6,
+    "script": 37,
+    "image": 20,
+    "fetch": 15,
+    "xhr": 2,
+    "ping": 7
+  },
+  "response_content_type_counts": {
+    "text/html": 5,
+    "text/css": 6,
+    "text/javascript": 10,
+    "image/svg+xml": 7,
+    "font/woff2": 9,
+    "application/javascript": 24,
+    "audio/mp3": 3,
+    "binary/octet-stream": 3,
+    "image/webp": 9,
+    "image/png": 2,
+    "text/plain": 7,
+    "application/json": 3,
+    "application/x-javascript": 2,
+    "image/gif": 2
+  },
+  "observed_hosts": [
+    "7znoc2fcnb.execute-api.us-east-2.amazonaws.com",
+    "ad.doubleclick.net",
+    "analytics-ipv6.tiktokw.us",
+    "analytics.dalilk.com",
+    "analytics.tiktok.com",
+    "browser.sentry-cdn.com",
+    "capi-automation.s3.us-east-2.amazonaws.com",
+    "cdn.jsdelivr.net",
+    "connect.facebook.net",
+    "d1u9ua4yk0lyeu.cloudfront.net",
+    "d2yzdrigfuozes.cloudfront.net",
+    "dalilk.com",
+    "dkl18tmi4r0t8.cloudfront.net",
+    "googleads.g.doubleclick.net",
+    "https:",
+    "ingestcdp.dalilk.com",
+    "pixel.tapad.com",
+    "publuu.com",
+    "s6epx6o7y5.execute-api.us-east-2.amazonaws.com",
+    "sc-static.net",
+    "se.dalilktech.com",
+    "static.cloudflareinsights.com",
+    "tr.snapchat.com",
+    "tr6.snapchat.com",
+    "www.google.com",
+    "www.google.com.sa",
+    "www.googletagmanager.com"
+  ],
+  "responses": [
+    {
+      "url": "https://dalilk.com/resources/fluency/read",
+      "status": 200,
+      "content_type": "text/html"
+    },
+    {
+      "url": "https://dalilk.com/assets/css/app.css",
+      "status": 200,
+      "content_type": "text/css"
+    },
+    {
+      "url": "https://dalilk.com/assets/js/dk-cdp.js",
+      "status": 200,
+      "content_type": "text/javascript"
+    },
+    {
+      "url": "https://dalilk.com/assets/js/dk-query.js",
+      "status": 200,
+      "content_type": "text/javascript"
+    },
+    {
+      "url": "https://dalilk.com/assets/images/logos/white.svg",
+      "status": 200,
+      "content_type": "image/svg+xml"
+    },
+    {
+      "url": "https://dalilk.com/assets/fonts/ibm-plex-sans-arabic-arabic-500-normal.woff2",
+      "status": 200,
+      "content_type": "font/woff2"
+    },
+    {
+      "url": "https://dalilk.com/assets/fonts/ibm-plex-sans-arabic-arabic-700-normal.woff2",
+      "status": 200,
+      "content_type": "font/woff2"
+    },
+    {
+      "url": "https://dalilk.com/assets/fonts/ibm-plex-sans-arabic-latin-700-normal.woff2",
+      "status": 200,
+      "content_type": "font/woff2"
+    },
+    {
+      "url": "https://dalilk.com/assets/fonts/ibm-plex-sans-arabic-latin-500-normal.woff2",
+      "status": 200,
+      "content_type": "font/woff2"
+    },
+    {
+      "url": "https://dalilk.com/assets/generated/dk-sentry.js",
+      "status": 200,
+      "content_type": "text/javascript"
+    },
+    {
+      "url": "https://dalilk.com/assets/generated/dk-gtm.js",
+      "status": 200,
+      "content_type": "text/javascript"
+    },
+    {
+      "url": "https://dalilk.com/assets/js/dk-footer.js",
+      "status": 200,
+      "content_type": "text/javascript"
+    },
+    {
+      "url": "https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092",
+      "status": 200,
+      "content_type": "text/javascript"
+    },
+    {
+      "url": "https://dalilk.com/assets/fonts/ibm-plex-sans-arabic-latin-600-normal.woff2",
+      "status": 200,
+      "content_type": "font/woff2"
+    },
+    {
+      "url": "https://dalilk.com/assets/fonts/ibm-plex-sans-arabic-arabic-600-normal.woff2",
+      "status": 200,
+      "content_type": "font/woff2"
+    },
+    {
+      "url": "https://dalilk.com/assets/fonts/ibm-plex-sans-latin-700-normal.woff2",
+      "status": 200,
+      "content_type": "font/woff2"
+    },
+    {
+      "url": "https://dalilk.com/assets/fonts/ibm-plex-sans-latin-500-normal.woff2",
+      "status": 200,
+      "content_type": "font/woff2"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@phosphor-icons/core@2.1.1/assets/fill/arrow-right-fill.svg",
+      "status": 200,
+      "content_type": "image/svg+xml"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@phosphor-icons/core@2.1.1/assets/fill/share-network-fill.svg",
+      "status": 200,
+      "content_type": "image/svg+xml"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@phosphor-icons/core@2.1.1/assets/fill/book-open-fill.svg",
+      "status": 200,
+      "content_type": "image/svg+xml"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@phosphor-icons/core@2.1.1/assets/fill/whatsapp-logo-fill.svg",
+      "status": 200,
+      "content_type": "image/svg+xml"
+    },
+    {
+      "url": "https://dalilk.com/assets/fonts/ibm-plex-sans-latin-600-normal.woff2",
+      "status": 200,
+      "content_type": "font/woff2"
+    },
+    {
+      "url": "https://ingestcdp.dalilk.com/sdk/v1.js",
+      "status": 200,
+      "content_type": "application/javascript"
+    },
+    {
+      "url": "https://publuu.com/flip-book/232773/580953/page/1",
+      "status": 200,
+      "content_type": "text/html"
+    },
+    {
+      "url": "https://dkl18tmi4r0t8.cloudfront.net/flipbook/202611/m/assets/scripts/analytics.js",
+      "status": 200,
+      "content_type": "application/javascript"
+    },
+    {
+      "url": "https://dkl18tmi4r0t8.cloudfront.net/flipbook/202611/m/assets/scripts/init.js",
+      "status": 200,
+      "content_type": "application/javascript"
+    },
+    {
+      "url": "https://dkl18tmi4r0t8.cloudfront.net/flipbook/202611/m/assets/scripts/Loader.js",
+      "status": 200,
+      "content_type": "application/javascript"
+    },
+    {
+      "url": "https://dkl18tmi4r0t8.cloudfront.net/flipbook/202611/m/assets/scripts/SecureUrlService.js",
+      "status": 200,
+      "content_type": "application/javascript"
+    },
+    {
+      "url": "https://dkl18tmi4r0t8.cloudfront.net/flipbook/202611/m/assets/scripts/APP.js",
+      "status": 200,
+      "content_type": "application/javascript"
+    },
+    {
+      "url": "https://dkl18tmi4r0t8.cloudfront.net/flipbook/202611/m/assets/scripts/Logs.js",
+      "status": 200,
+      "content_type": "application/javascript"
+    },
+    {
+      "url": "https://dkl18tmi4r0t8.cloudfront.net/flipbook/202611/m/assets/scripts/Page_curl.js",
+      "status": 200,
+      "content_type": "application/javascript"
+    },
+    {
+      "url": "https://dkl18tmi4r0t8.cloudfront.net/flipbook/202611/m/assets/scripts/Helper.js",
+      "status": 200,
+      "content_type": "application/javascript"
+    },
+    {
+      "url": "https://dkl18tmi4r0t8.cloudfront.net/flipbook/202611/m/assets/scripts/SoundController.js",
+      "status": 200,
+      "content_type": "application/javascript"
+    },
+    {
+      "url": "https://dkl18tmi4r0t8.cloudfront.net/flipbook/202611/m/assets/scripts/Layout.js",
+      "status": 200,
+      "content_type": "application/javascript"
+    },
+    {
+      "url": "https://dkl18tmi4r0t8.cloudfront.net/flipbook/202611/m/assets/scripts/VideoEmbed.js",
+      "status": 200,
+      "content_type": "application/javascript"
+    },
+    {
+      "url": "https://dkl18tmi4r0t8.cloudfront.net/flipbook/202611/m/assets/scripts/Book_curl.js",
+      "status": 200,
+      "content_type": "application/javascript"
+    },
+    {
+      "url": "https://dkl18tmi4r0t8.cloudfront.net/flipbook/202611/m/assets/scripts/page-flip-hard.browser.js",
+      "status": 200,
+      "content_type": "application/javascript"
+    },
+    {
+      "url": "https://dkl18tmi4r0t8.cloudfront.net/flipbook/202611/m/assets/css/APP-xs.css",
+      "status": 200,
+      "content_type": "text/css"
+    },
+    {
+      "url": "https://dkl18tmi4r0t8.cloudfront.net/flipbook/202611/m/assets/css/Menu.css",
+      "status": 200,
+      "content_type": "text/css"
+    },
+    {
+      "url": "https://dkl18tmi4r0t8.cloudfront.net/flipbook/202611/m/assets/css/modal.css",
+      "status": 200,
+      "content_type": "text/css"
+    },
+    {
+      "url": "https://dkl18tmi4r0t8.cloudfront.net/flipbook/202611/m/assets/css/loader.css",
+      "status": 200,
+      "content_type": "text/css"
+    },
+    {
+      "url": "https://dkl18tmi4r0t8.cloudfront.net/flipbook/202611/m/assets/audio/v1_1.mp3",
+      "status": 200,
+      "content_type": "audio/mp3"
+    },
+    {
+      "url": "https://dkl18tmi4r0t8.cloudfront.net/flipbook/202611/m/assets/audio/v1_2.mp3",
+      "status": 200,
+      "content_type": "audio/mp3"
+    },
+    {
+      "url": "https://dkl18tmi4r0t8.cloudfront.net/flipbook/202611/m/assets/audio/v1_4.mp3",
+      "status": 200,
+      "content_type": "audio/mp3"
+    },
+    {
+      "url": "https://dkl18tmi4r0t8.cloudfront.net/flipbook/202611/m/assets/css/Book/xs.css",
+      "status": 200,
+      "content_type": "text/css"
+    },
+    {
+      "url": "https://dkl18tmi4r0t8.cloudfront.net/flipbook/202611/m/assets/fonts/lato/v23/S6uyw4BMUTPHjx4wXiWtFCc.woff2",
+      "status": 200,
+      "content_type": "binary/octet-stream"
+    },
+    {
+      "url": "https://dkl18tmi4r0t8.cloudfront.net/flipbook/202611/m/assets/fonts/lato/v23/S6u9w4BMUTPHh6UVSwiPGQ3q5d0.woff2",
+      "status": 200,
+      "content_type": "binary/octet-stream"
+    },
+    {
+      "url": "https://dkl18tmi4r0t8.cloudfront.net/textures/bg_18_1536.webp",
+      "status": 200,
+      "content_type": "image/webp"
+    },
+    {
+      "url": "https://dkl18tmi4r0t8.cloudfront.net/flipbook/202611/m/assets/images/prev2_1h.svg",
+      "status": 200,
+      "content_type": "image/svg+xml"
+    },
+    {
+      "url": "https://dkl18tmi4r0t8.cloudfront.net/flipbook/202611/m/assets/images/shadows/transparent-flipbook-shadow-light.svg",
+      "status": 200,
+      "content_type": "image/svg+xml"
+    },
+    {
+      "url": "https://d1u9ua4yk0lyeu.cloudfront.net/cms/publishers/232773/580953/flipbook-assets/104761848968235660121957.28245158.png",
+      "status": 200,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://d2yzdrigfuozes.cloudfront.net/232773/580953/1/txt/580953_2_1200.webp",
+      "status": 200,
+      "content_type": "image/webp"
+    },
+    {
+      "url": "https://d2yzdrigfuozes.cloudfront.net/232773/580953/1/txt/580953_1_1200.webp",
+      "status": 200,
+      "content_type": "image/webp"
+    },
+    {
+      "url": "https://d2yzdrigfuozes.cloudfront.net/232773/580953/1/txt/580953_1_400.webp",
+      "status": 200,
+      "content_type": "image/webp"
+    },
+    {
+      "url": "https://d2yzdrigfuozes.cloudfront.net/232773/580953/1/txt/580953_2_400.webp",
+      "status": 200,
+      "content_type": "image/webp"
+    },
+    {
+      "url": "https://dalilk.com/cdn-cgi/rum",
+      "status": 204,
+      "content_type": "text/plain"
+    },
+    {
+      "url": "https://se.dalilktech.com/js-sdk-loader/1ff08a1d9fad5edaa443ce84fff0a66f.min.js",
+      "status": 200,
+      "content_type": "text/javascript"
+    },
+    {
+      "url": "https://7znoc2fcnb.execute-api.us-east-2.amazonaws.com/policy",
+      "status": 200,
+      "content_type": "application/json"
+    },
+    {
+      "url": "https://browser.sentry-cdn.com/10.78.0/bundle.tracing.replay.min.js",
+      "status": 200,
+      "content_type": "application/javascript"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtm.js",
+      "status": 200,
+      "content_type": "application/javascript"
+    },
+    {
+      "url": "blob://https://dalilk.com/5506d255-5db8-4b1d-8a74-e44c174f42d1",
+      "status": 200,
+      "content_type": "text/javascript"
+    },
+    {
+      "url": "https://s6epx6o7y5.execute-api.us-east-2.amazonaws.com/232773/580953/simple",
+      "status": 200,
+      "content_type": "text/plain"
+    },
+    {
+      "url": "https://ingestcdp.dalilk.com/v1/pageviews",
+      "status": 200,
+      "content_type": "application/json"
+    },
+    {
+      "url": "https://analytics.tiktok.com/i18n/pixel/events.js",
+      "status": 200,
+      "content_type": "application/javascript"
+    },
+    {
+      "url": "https://sc-static.net/scevent.min.js",
+      "status": 200,
+      "content_type": "application/javascript"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect",
+      "status": 200,
+      "content_type": ""
+    },
+    {
+      "url": "https://ad.doubleclick.net/ccm/s/collect",
+      "status": 204,
+      "content_type": ""
+    },
+    {
+      "url": "https://analytics.tiktok.com/i18n/pixel/static/main.MTkyOWEyMGMwMQ.js",
+      "status": 200,
+      "content_type": "application/javascript"
+    },
+    {
+      "url": "https://connect.facebook.net/en_US/fbevents.js",
+      "status": 200,
+      "content_type": "application/x-javascript"
+    },
+    {
+      "url": "https://analytics.tiktok.com/i18n/pixel/static/identify_9caef9b0.js",
+      "status": 200,
+      "content_type": "application/javascript"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js",
+      "status": 200,
+      "content_type": "application/javascript"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js",
+      "status": 200,
+      "content_type": "application/javascript"
+    },
+    {
+      "url": "https://connect.facebook.net/signals/config/1612575536330954",
+      "status": 200,
+      "content_type": "application/x-javascript"
+    },
+    {
+      "url": "https://analytics.tiktok.com/api/v2/pixel",
+      "status": 200,
+      "content_type": ""
+    },
+    {
+      "url": "https://analytics.tiktok.com/api/v2/pixel",
+      "status": 200,
+      "content_type": ""
+    },
+    {
+      "url": "https://analytics.dalilk.com/_/service_worker/6al0/sw_iframe.html",
+      "status": 200,
+      "content_type": "text/html"
+    },
+    {
+      "url": "https://analytics.dalilk.com/g/collect",
+      "status": 200,
+      "content_type": "text/plain"
+    },
+    {
+      "url": "https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092",
+      "status": 200,
+      "content_type": "text/javascript"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect",
+      "status": 200,
+      "content_type": ""
+    },
+    {
+      "url": "https://www.google.com/rmkt/collect/398659829/",
+      "status": 200,
+      "content_type": ""
+    },
+    {
+      "url": "https://tr.snapchat.com/cm/i",
+      "status": 200,
+      "content_type": "text/html"
+    },
+    {
+      "url": "https://tr.snapchat.com/p",
+      "status": 200,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://sc-static.net/scevent.min.js",
+      "status": 200,
+      "content_type": "application/javascript"
+    },
+    {
+      "url": "https://analytics-ipv6.tiktokw.us/ipv6/enrich_ipv6",
+      "status": 200,
+      "content_type": ""
+    },
+    {
+      "url": "https://analytics.dalilk.com/cdn-cgi/rum",
+      "status": 204,
+      "content_type": "text/plain"
+    },
+    {
+      "url": "https://analytics.dalilk.com/g/collect",
+      "status": 200,
+      "content_type": "text/plain"
+    },
+    {
+      "url": "https://tr.snapchat.com/config/com/56a986cf-315f-479e-ae83-909d1584d83e.js",
+      "status": 200,
+      "content_type": "application/javascript"
+    },
+    {
+      "url": "https://analytics.tiktok.com/api/v2/pixel/act",
+      "status": 200,
+      "content_type": ""
+    },
+    {
+      "url": "https://tr.snapchat.com/cm/s",
+      "status": 302,
+      "content_type": ""
+    },
+    {
+      "url": "https://tr6.snapchat.com/p",
+      "status": 200,
+      "content_type": ""
+    },
+    {
+      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/398659829/",
+      "status": 200,
+      "content_type": "text/javascript"
+    },
+    {
+      "url": "https://www.google.com/pagead/1p-user-list/398659829/",
+      "status": 200,
+      "content_type": "image/gif"
+    },
+    {
+      "url": "https://pixel.tapad.com/idsync/ex/push",
+      "status": 302,
+      "content_type": ""
+    },
+    {
+      "url": "https://tr.snapchat.com/p",
+      "status": 200,
+      "content_type": ""
+    },
+    {
+      "url": "https://capi-automation.s3.us-east-2.amazonaws.com/public/client_js/capiParamBuilder/clientParamBuilder.bundle.js",
+      "status": 200,
+      "content_type": "binary/octet-stream"
+    },
+    {
+      "url": "https://www.google.com.sa/pagead/1p-user-list/398659829/",
+      "status": 200,
+      "content_type": "image/gif"
+    },
+    {
+      "url": "https://pixel.tapad.com/idsync/ex/push/check",
+      "status": 302,
+      "content_type": ""
+    },
+    {
+      "url": "https://tr.snapchat.com/cm/p",
+      "status": 200,
+      "content_type": "text/html"
+    },
+    {
+      "url": "https://se.dalilktech.com/api/32/envelope/",
+      "status": 200,
+      "content_type": "application/json"
+    },
+    {
+      "url": "https://d2yzdrigfuozes.cloudfront.net/232773/580953/1/txt/580953_2_1200.webp",
+      "status": 200,
+      "content_type": "image/webp"
+    },
+    {
+      "url": "https://d2yzdrigfuozes.cloudfront.net/232773/580953/1/txt/580953_1_400.webp",
+      "status": 200,
+      "content_type": "image/webp"
+    },
+    {
+      "url": "https://d2yzdrigfuozes.cloudfront.net/232773/580953/1/txt/580953_3_400.webp",
+      "status": 200,
+      "content_type": "image/webp"
+    },
+    {
+      "url": "https://s6epx6o7y5.execute-api.us-east-2.amazonaws.com/232773/580953/simple",
+      "status": 200,
+      "content_type": "text/plain"
+    },
+    {
+      "url": "https://d2yzdrigfuozes.cloudfront.net/232773/580953/1/txt/580953_3_1200.webp",
+      "status": 200,
+      "content_type": "image/webp"
+    },
+    {
+      "url": "https://analytics.tiktok.com/api/v2/pixel",
+      "status": 200,
+      "content_type": ""
+    },
+    {
+      "url": "https://s6epx6o7y5.execute-api.us-east-2.amazonaws.com/232773/580953/simple",
+      "status": 200,
+      "content_type": "text/plain"
+    }
+  ],
+  "note": "Query strings and fragments were removed; no request bodies, cookies, or media payloads were saved."
+}

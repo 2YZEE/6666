@@ -1,0 +1,196 @@
+{
+  "schema_version": "1.0",
+  "source": {
+    "site": "Dalilk",
+    "story_id": "580953",
+    "url": "https://dalilk.com/resources/fluency/read?book=580953",
+    "reuse_permission_verified": false,
+    "reuse_policy": "Source references and technical metadata only; no story text or media copied."
+  },
+  "inspection": {
+    "inspected_at_utc": "2026-11-10T05:56:16.188126+00:00",
+    "browser": "Playwright Chromium",
+    "http_status": 200,
+    "page_title": "روايات إنجليزية للقراءة: 100 رواية بمستويات متدرجة | دليلك",
+    "reader_title": "The Old Book’s Mystery",
+    "reader_embed_url": "https://publuu.com/flip-book/232773/580953/page/1",
+    "reader_page_count": 22,
+    "page_one_and_final_page_navigation_verified": true,
+    "observed_final_reader_url": "https://publuu.com/flip-book/232773/580953/page/2",
+    "reader_dom": {
+      "image_elements": 6,
+      "canvas_elements": 2,
+      "text_like_elements": 13,
+      "audio_elements": [],
+      "video_elements": 0,
+      "controls": [
+        "Table of Contents",
+        "Thumbnails",
+        "Share",
+        "Download",
+        "Turn off Audio",
+        "Print",
+        "Zoom In",
+        "Notes",
+        "Auto flip",
+        "Wishlist",
+        "Previous Page",
+        "Search",
+        "Next Page",
+        "Fullscreen",
+        "Close button",
+        "Close button",
+        "ENTER"
+      ]
+    }
+  },
+  "content": {
+    "story_text": {
+      "status": "not_exported",
+      "reason": "Reuse permission not verified; pages render as book artwork."
+    },
+    "vocabulary": {
+      "status": "not_found_in_reader_controls",
+      "items": []
+    },
+    "questions": {
+      "status": "not_found_in_reader_controls",
+      "items": []
+    },
+    "sentence_timestamps": {
+      "status": "not_available",
+      "items": []
+    }
+  },
+  "media": {
+    "images": {
+      "count_observed_in_network": 20,
+      "story_asset_references": [
+        {
+          "url": "https://d1u9ua4yk0lyeu.cloudfront.net/cms/publishers/232773/580953/flipbook-assets/104761848968235660121957.28245158.png",
+          "format": "png",
+          "content_type": "image/png",
+          "http_status": 200,
+          "downloaded": false,
+          "reuse_permission_verified": false
+        },
+        {
+          "url": "https://d2yzdrigfuozes.cloudfront.net/232773/580953/1/txt/580953_2_1200.webp",
+          "format": "webp",
+          "content_type": "image/webp",
+          "http_status": 200,
+          "downloaded": false,
+          "reuse_permission_verified": false
+        },
+        {
+          "url": "https://d2yzdrigfuozes.cloudfront.net/232773/580953/1/txt/580953_1_1200.webp",
+          "format": "webp",
+          "content_type": "image/webp",
+          "http_status": 200,
+          "downloaded": false,
+          "reuse_permission_verified": false
+        },
+        {
+          "url": "https://d2yzdrigfuozes.cloudfront.net/232773/580953/1/txt/580953_1_400.webp",
+          "format": "webp",
+          "content_type": "image/webp",
+          "http_status": 200,
+          "downloaded": false,
+          "reuse_permission_verified": false
+        },
+        {
+          "url": "https://d2yzdrigfuozes.cloudfront.net/232773/580953/1/txt/580953_2_400.webp",
+          "format": "webp",
+          "content_type": "image/webp",
+          "http_status": 200,
+          "downloaded": false,
+          "reuse_permission_verified": false
+        },
+        {
+          "url": "https://d2yzdrigfuozes.cloudfront.net/232773/580953/1/txt/580953_2_1200.webp",
+          "format": "webp",
+          "content_type": "image/webp",
+          "http_status": 200,
+          "downloaded": false,
+          "reuse_permission_verified": false
+        },
+        {
+          "url": "https://d2yzdrigfuozes.cloudfront.net/232773/580953/1/txt/580953_1_400.webp",
+          "format": "webp",
+          "content_type": "image/webp",
+          "http_status": 200,
+          "downloaded": false,
+          "reuse_permission_verified": false
+        },
+        {
+          "url": "https://d2yzdrigfuozes.cloudfront.net/232773/580953/1/txt/580953_3_400.webp",
+          "format": "webp",
+          "content_type": "image/webp",
+          "http_status": 200,
+          "downloaded": false,
+          "reuse_permission_verified": false
+        },
+        {
+          "url": "https://d2yzdrigfuozes.cloudfront.net/232773/580953/1/txt/580953_3_1200.webp",
+          "format": "webp",
+          "content_type": "image/webp",
+          "http_status": 200,
+          "downloaded": false,
+          "reuse_permission_verified": false
+        }
+      ],
+      "files_downloaded": 0,
+      "reuse_permission_verified": false
+    },
+    "audio": {
+      "count_observed_in_network": 3,
+      "assets": [
+        {
+          "url": "https://dkl18tmi4r0t8.cloudfront.net/flipbook/202611/m/assets/audio/v1_1.mp3",
+          "format": "mp3",
+          "content_type": "audio/mp3",
+          "http_status": 200,
+          "duration_seconds": null,
+          "downloaded": false,
+          "reuse_permission_verified": false,
+          "association": "loaded during this story reader session; segment mapping not verified"
+        },
+        {
+          "url": "https://dkl18tmi4r0t8.cloudfront.net/flipbook/202611/m/assets/audio/v1_2.mp3",
+          "format": "mp3",
+          "content_type": "audio/mp3",
+          "http_status": 200,
+          "duration_seconds": null,
+          "downloaded": false,
+          "reuse_permission_verified": false,
+          "association": "loaded during this story reader session; segment mapping not verified"
+        },
+        {
+          "url": "https://dkl18tmi4r0t8.cloudfront.net/flipbook/202611/m/assets/audio/v1_4.mp3",
+          "format": "mp3",
+          "content_type": "audio/mp3",
+          "http_status": 200,
+          "duration_seconds": null,
+          "downloaded": false,
+          "reuse_permission_verified": false,
+          "association": "loaded during this story reader session; segment mapping not verified"
+        }
+      ],
+      "files_downloaded": 0,
+      "reuse_permission_verified": false,
+      "player_control_observed": true
+    },
+    "videos": {
+      "count_observed_in_reader_dom": 0,
+      "files_downloaded": 0
+    }
+  },
+  "limitations": [
+    "The reader is embedded from Publuu and presents book pages as visual artwork rather than accessible story-text nodes.",
+    "The reader exposes a page control and an audio toggle; no protected assets were saved.",
+    "No permission to reproduce the story, illustrations, or narration was provided or verified."
+  ],
+  "errors": [
+    "page-number control: TimeoutError"
+  ]
+}
